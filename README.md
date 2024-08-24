@@ -1,4 +1,4 @@
-# news_app
+# matchflix
 
 A new Flutter project.
 
